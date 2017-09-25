@@ -1,6 +1,7 @@
 # tutorial-praca-z-gitem
 
-<dlaczego git>
+
+// dlaczego git // jaka jest wartosc
 
 # Poznaj Git'a
 
