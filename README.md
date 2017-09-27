@@ -5,7 +5,7 @@ Git jest systemem kontroli zmian w plikach, umożliwia on zapisywanie histori zm
 [Prezentacja-wprowadzenie](https://docs.google.com/presentation/d/1slraxf4bgpVrrKCL3-ik2Gwylt2IO8O6MUB27YvdpEw/edit?usp=sharing)
 
 # Poznaj Git'a
-- [Wprowadzenie do githuba po polsku](https://git-scm.com/book/pl/v1/Pierwsze-kroki-Podstawy-Git)
+- [Git po polsku](https://git-scm.com/book/pl/v1/Pierwsze-kroki-Podstawy-Git)
 - https://try.github.io/levels/1/challenges/1
 
 # Ćwiczenia z Git'em
